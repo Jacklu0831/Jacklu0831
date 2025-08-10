@@ -1,4 +1,5 @@
 Glad you're here
+Quick info about me: https://jacklu-me.com/
 
 <!--
 **Jacklu0831/Jacklu0831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
